@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EmailAppGridLayout</string>
+    <string name="hint">Input Email here</string>
+    <string name="to">To:</string>
+    <string name="message">Message</string>
+    <string name="send">send</string>
+</resources>
